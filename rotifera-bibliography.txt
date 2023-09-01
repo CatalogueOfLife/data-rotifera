@@ -1,5 +1,4 @@
-Reference list to publications with rotifer names newly proposed at species rank or below, years 1758 - 1999
-
+ID	author	issued	title		citation	remarks
 ABDULLAEV, K. T. 1989, New and rare species of rotifers in waters of Daghestan. Zoologicheskij Zhurnal 68:127-130.
 ABILDGAARD, P. C. 1793, Nogle Forsøg betræffende Infusions-Dyrenes Oprindelse of Aarsagen til Vandets Forraadnelse. Skrivter af Naturhistorie Selskabet, Kjøbenhavn 3(1):70-87, pl.3.
 AHLSTROM, E. H. 1932, Plankton Rotatoria from Mexico. Transactions of the American Microscopical Society 51:242-251.
@@ -1031,6 +1030,6 @@ ZHUGE, Y. and HUANG, X. 1997, Rotifera from the outlet of Dongting Lake, with th
 ZHUGE, Y. and HUANG, X. 1998, On a new species of Keratella (Rotifera: Monogononta: Brachionidae). Hydrobiologia 387/388:35-37.
 ZHUGE, Y. and KOSTE, W. 1996, Two new species of Rotifera from China. Internationale Revue der gesamten Hydrobiologie 81:605-609.
 ZHUGE, Y., KUTIKOVA, L. A. and SUDZUKI, M. 1998, Notholca dongtingensis (Rotifera: Monogononta: Brachionidae), a new species from Dongting Lake, China. Hydrobiologia 368:37-40.
-ZIVKOVIC, A. 1975, Platyias bicornis nova vrsta Rotatorija. Arhiv Bioloskih Nauka, Beograd 26:193-195.
+ŽIVKOVIC, A. 1975, Platyias bicornis nova vrsta Rotatorija. Arhiv Bioloskih Nauka, Beograd 26:193-195.
 ŽIVKOVIĆ, A. 1987, Fauna Rotatoria Jugoslovenskog dela Dunava i voda njegovog plavnog podruchja kod Apatina. Zbornik radova o fauni SR Srbije 4:1-115.
 ZSUGA, K. 1996, Vizsgálatok a Balaton litorális övében élő kerekesférgeken (Rotatoria). Állat- tani Közlemények 81:217-226.
