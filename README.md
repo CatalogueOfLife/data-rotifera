@@ -5,3 +5,5 @@ A ColDP archive of all [Rotifera names from the official ICZN List of Available 
 
 The ```Name.tsv``` file currently only holds the accepted species names. 
 The B-list and genera names have not been included yet.
+
+The archive has been registered with Checklistbank at https://www.checklistbank.org/dataset/265152
